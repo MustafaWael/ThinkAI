@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706867821753,
+      "tag": "0000_pale_madame_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706867898978,
+      "tag": "0001_perfect_sunspot",
+      "breakpoints": true
+    }
+  ]
+}
